@@ -10,8 +10,8 @@ p.intro {
 
 body {
   background-color: brown;
-}
+} 
   
-image.intro {
-  color: grayscale;
+img.intro {
+  filter: grayscale(100%);
 }
