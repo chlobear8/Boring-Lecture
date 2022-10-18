@@ -1,9 +1,9 @@
-h2.intro {
+h2 {
   color:rosybrown;
   text-align: right;
 }
 
-p.intro {
+p {
   color: grey;
   text-align: center;
 }
@@ -12,6 +12,10 @@ body {
   background-color: brown;
 } 
   
-img.intro {
+img {
   filter: grayscale(100%);
+}
+
+.intro {
+  background-color: rgb(45, 35, 11)
 }
