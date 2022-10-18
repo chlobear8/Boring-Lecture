@@ -1,5 +1,6 @@
-h1 {
-  
+h2.intro {
+  color:rosybrown;
+  text-align: right;
 }
 
 p.intro {
@@ -11,3 +12,6 @@ body {
   background-color: brown;
 }
   
+image.intro {
+  color: grayscale;
+}
