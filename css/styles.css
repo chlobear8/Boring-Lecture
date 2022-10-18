@@ -16,8 +16,15 @@ img {
   filter: grayscale(100%);
   width: 200px;
   height: 300px;
+  float: right;
 }
 
 .intro {
   background-color: rgb(45, 35, 11)
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: beige;
 }
