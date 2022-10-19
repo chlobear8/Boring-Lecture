@@ -17,6 +17,7 @@ img {
   width: 200px;
   height: 300px;
   float: right;
+  padding: 4px;
 }
 
 .intro {
@@ -25,6 +26,10 @@ img {
 
 .sidebar {
   width: 30%;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  box-sizing: border-box
   float: left;
   background-color: beige;
 }
